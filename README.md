@@ -1,4 +1,4 @@
-# Agri-Sahayak Backend
+# Agri-Sewa Backend
 
 A comprehensive multi-agent agricultural assistance system built with FastAPI and the Agno framework. This backend provides conversational AI capabilities and direct data access for farmers.
 
