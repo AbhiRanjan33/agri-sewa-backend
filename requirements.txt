@@ -17,6 +17,7 @@ thefuzz
 googlesearch-python
 pycountry
 duckduckgo-search
+ddgs
 tavily-python
 google-genai
 langgraph[draw]
